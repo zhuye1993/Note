@@ -9,10 +9,9 @@
     "publish": "deploy.sh"
   },
   "author": "LiBai",
-  "repository": "github:wsydxiangwang/Note",
+  "repository": "github:zhuye1993/Note",
   "license": "ISC",
   "dependencies": {
     "vuepress": "^1.4.1"
-  },
-  "homepage": "https://zhuye1993.github.io/github-actions-demo"
+  }
 }
