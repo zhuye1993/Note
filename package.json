@@ -8,7 +8,7 @@
     "build": "vuepress build docs",
     "publish": "deploy.sh"
   },
-  "author": "LiBai",
+  "author": "zhuye",
   "repository": "github:zhuye1993/Note",
   "license": "ISC",
   "dependencies": {
