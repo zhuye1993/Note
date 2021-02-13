@@ -33,7 +33,7 @@ jobs:
     #     PUBLISH_DIR: docs/.vuepress/dist
     #   with:
     #       emptyCommits: false
-     steps:
+    steps:
     - name: Checkout
       uses: actions/checkout@master
 
