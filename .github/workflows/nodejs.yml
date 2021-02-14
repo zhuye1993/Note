@@ -29,7 +29,7 @@ jobs:
       env:
         ACTIONS_DEPLOY_KEY : ${{ secrets.ACTIONS_DEPLOY_KEY  }}
         EXTERNAL_REPOSITORY: zhuye1993/zhuye1993.github.io
-        PUBLISH_BRANCH: master
+        PUBLISH_BRANCH: gh-pages
         PUBLISH_DIR: docs/.vuepress/dist
       with:
           emptyCommits: false
